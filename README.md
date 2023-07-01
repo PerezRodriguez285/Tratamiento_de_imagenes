@@ -36,5 +36,6 @@ anaconda-spyder e incluso desde la consola son posibles hacerlos funcionar.
 
 # Agradecimientos🍺
 -A mi estimada maestra Edith.
+
 -A mis estimados compañeros Luis Angel (chico de fisica) y Miguel Angel (el coordinador) por su ayuda y esfuerzo 
 gracias por todo.
